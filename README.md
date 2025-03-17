@@ -16,21 +16,23 @@ State Management: React Hooks
 Installation
 
 
-**Usage**
-Explore interactive UI elements: Experience a more engaging interface with filters, sorting options, and dynamic content displays.
+**Key Features of Jet Set Go**
 
-Browse the "About" Page: Learn more about the app, its mission, and the services offered.
+**Interactive UI Elements**: Experience a more engaging interface with filters, sorting options, and dynamic content displays.
 
-Create and post ideas on the Blog: Users can write and share their travel experiences or tips in a user-friendly blog section.
+**Navigation Dropdown for Gallery**: Browse through our curated collection of travel images using our intuitive dropdown navigation menu.
 
-Gallery with Filters: Explore images in the gallery and filter them by categories like "mountains" or "beach" to find exactly what you're looking for.
+**Accordions or Tabs for Services**: Explore our comprehensive travel services through an organized accordion interface, making it easy to find exactly what you need.
 
-View Our Services: Discover various travel services, such as accommodation options, airport pickups, and more.
+**Cards/Panels for Tours**: Browse our visually appealing tour cards that combine stunning imagery with concise descriptions for each destination.
 
-Popular Tours Section: View and interact with a dynamic list of tours. A dropdown lets you choose specific tours, with additional fields appearing for more details if "Other" is selected.
+**Gallery with Filters**: Use our filterable gallery to sort images by categories like "mountains" or "beach" to find exactly what inspires you.
 
-Tour Cards/ Panels: Each tour is represented visually in a card or panel that includes an image and a brief description, making it easy to browse and select.
+**Complex Form for Popular Tours**: Our dynamic form lets you select specific tours with conditional fields appearing when "Other" is selected.
 
+**Modal Form for Blog**: Share your travel experiences through our modal dialog interface, designed for a seamless writing experience.
+
+B**rowse the "About" Page**: Learn more about the app, its mission, and the services offered.
 **Contribution**
 I contributed everything from the ground up, building the project from scratch, including:
 Frontend development using React and Vite
